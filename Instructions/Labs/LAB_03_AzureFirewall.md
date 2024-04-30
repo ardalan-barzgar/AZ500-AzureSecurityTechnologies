@@ -103,7 +103,7 @@ In this task you will deploy the Azure firewall into the virtual network.
    |Firewall SKU|**Standard**|
    |Firewall management|**Use Firewall rules (classic) to manage this firewall**|
    |Choose a virtual network|click the **Use existing** option and, in the drop-down list, select **Test-FW-VN**|
-   |Public IP address|clck **Add new** and type the name **TEST-FW-PIP** and click **OK**|
+   |Public IP address|click **Add new** and type the name **TEST-FW-PIP** and click **OK**|
 
 4. Click **Review + create** and then click **Create**. 
 
